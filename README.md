@@ -1,4 +1,4 @@
-## install
+## installation steps
 
 ### mecab
 
